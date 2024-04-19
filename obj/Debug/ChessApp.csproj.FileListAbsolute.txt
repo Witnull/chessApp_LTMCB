@@ -1,0 +1,87 @@
+D:\LTMCB_Doan\ChessApp\bin\Debug\ChessApp.exe.config
+D:\LTMCB_Doan\ChessApp\bin\Debug\ChessApp.exe
+D:\LTMCB_Doan\ChessApp\bin\Debug\ChessApp.pdb
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.starterScreeen.resources
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.Properties.Resources.resources
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.csproj.GenerateResource.cache
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.exe
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.pdb
+D:\LTMCB_Doan\ChessApp\obj\Debug\ChessApp.csproj.Up2Date
+D:\LTMCB_Doan\ChessApp\bin\Debug\Transitions.dll
+D:\LTMCB_Doan\ChessApp\bin\Debug\Transitions.pdb
+D:\LTMCB_Doan\ChessAppSample2\bin\Debug\ChessApp.exe.config
+D:\LTMCB_Doan\ChessAppSample2\bin\Debug\ChessApp.exe
+D:\LTMCB_Doan\ChessAppSample2\bin\Debug\ChessApp.pdb
+D:\LTMCB_Doan\ChessAppSample2\bin\Debug\Transitions.dll
+D:\LTMCB_Doan\ChessAppSample2\bin\Debug\Transitions.pdb
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.starterScreeen.resources
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.Properties.Resources.resources
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.csproj.GenerateResource.cache
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.csproj.Up2Date
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.exe
+D:\LTMCB_Doan\ChessAppSample2\obj\Debug\ChessApp.pdb
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.starterScreeen.resources
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.Properties.Resources.resources
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.exe
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.pdb
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.exe.config
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.exe
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.pdb
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\FireSharp.dll
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\RestSharp.dll
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Transitions.dll
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\RestSharp.xml
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Transitions.pdb
+C:\Users\ADMIN\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.Up2Date
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.exe.config
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.exe
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.pdb
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\FireSharp.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\FireSharp.Serialization.JsonNet.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Newtonsoft.Json.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\RestSharp.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Transitions.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Newtonsoft.Json.xml
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\RestSharp.xml
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Transitions.pdb
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.starterScreeen.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.Properties.Resources.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.GenerateResource.cache
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.Up2Date
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.exe
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.pdb
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.gamePlayervsPlayer.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.gameScreen.resources
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.exe.config
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.exe
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\ChessApp.pdb
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\FireSharp.dll
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\FireSharp.Serialization.JsonNet.dll
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\RestSharp.dll
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Transitions.dll
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\RestSharp.xml
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\bin\Debug\Transitions.pdb
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.gamePlayervsPlayer.resources
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.gameScreen.resources
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.starterScreeen.resources
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.Properties.Resources.resources
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.GenerateResource.cache
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.Up2Date
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.exe
+C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.pdb
