@@ -1,21 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\",
+  "WorkspaceRootPath": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|c:\\users\\admin\\downloads\\chessappsample2withai\\chessappsample2withai\\chessappsample2withai\\gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|e:\\stuff or sth like that\\laptrinhmangcanban\\chessapp_ltmcb\\gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|e:\\stuff or sth like that\\laptrinhmangcanban\\chessapp_ltmcb\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\interface\\formutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:interface\\formutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +22,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Position.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\Position.cs",
+              "DocumentMoniker": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Position.cs",
               "RelativeDocumentMoniker": "Position.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\Position.cs",
+              "ToolTip": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Position.cs",
               "RelativeToolTip": "Position.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,38 +38,35 @@
               "IsPinned": true
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FormUtils.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\Interface\\FormUtils.cs",
-              "RelativeDocumentMoniker": "Interface\\FormUtils.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\Interface\\FormUtils.cs",
-              "RelativeToolTip": "Interface\\FormUtils.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T13:50:15.267Z"
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "gameScreen.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\gameScreen.cs",
-              "RelativeDocumentMoniker": "gameScreen.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\gameScreen.cs",
-              "RelativeToolTip": "gameScreen.cs",
-              "ViewState": "AQIAAEIAAAAAAAAAAAAIwFkAAAARAAAA",
+              "Title": "Board.cs",
+              "DocumentMoniker": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwFsAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T13:44:34.644Z"
+              "WhenOpened": "2024-04-21T15:53:04.866Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "gamePlayervsPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\gamePlayervsPlayer.cs",
+              "DocumentMoniker": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\gamePlayervsPlayer.cs",
               "RelativeDocumentMoniker": "gamePlayervsPlayer.cs",
-              "ToolTip": "C:\\Users\\admin\\Downloads\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\ChessAppSample2WithAI\\gamePlayervsPlayer.cs",
+              "ToolTip": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\gamePlayervsPlayer.cs",
               "RelativeToolTip": "gamePlayervsPlayer.cs",
-              "ViewState": "AQIAACoAAAAAAAAAAAAowEsAAAAcAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAQwEUAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T08:23:04.4Z",
               "EditorCaption": ""

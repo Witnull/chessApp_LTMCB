@@ -78,7 +78,7 @@ namespace ChessApp
             }
 
             //Black Play
-            if (playerGameState.Board.WhiteTurn == false)
+            else if (playerGameState.Board.WhiteTurn == false)
             {
                 
                 Board BlackBoard = playerGameState.Board.Click(new Position(e.X,e.Y), playerGameState.successiveBoards);

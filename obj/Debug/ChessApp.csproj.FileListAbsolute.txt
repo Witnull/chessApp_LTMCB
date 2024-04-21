@@ -85,3 +85,24 @@ C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSam
 C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.Up2Date
 C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.exe
 C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.pdb
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\ChessApp.exe.config
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\ChessApp.exe
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\ChessApp.pdb
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\FireSharp.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\FireSharp.Serialization.JsonNet.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\Newtonsoft.Json.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\RestSharp.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\Transitions.dll
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\Newtonsoft.Json.xml
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\RestSharp.xml
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\Transitions.pdb
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.gamePlayervsPlayer.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.gameScreen.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.starterScreeen.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.Properties.Resources.resources
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.csproj.GenerateResource.cache
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.csproj.Up2Date
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.exe
+E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.pdb
