@@ -65,7 +65,7 @@ namespace ChessApp
 
         public virtual void Draw(Graphics g)
         {
-            Brush b = new SolidBrush(White ? Color.White : Color.DarkSlateGray);
+            Brush b = new SolidBrush(White ? Color.White : Color.PaleGoldenrod);
             g.FillRectangle(b, X * Board.TILE_SIDE + Board.OFFSET_X, Y * Board.TILE_SIDE + Board.OFFSET_Y, Board.TILE_SIDE, Board.TILE_SIDE);
             g.DrawRectangle(new Pen(new SolidBrush(Color.Black), 2), X * Board.TILE_SIDE + Board.OFFSET_X, Y * Board.TILE_SIDE + Board.OFFSET_Y, Board.TILE_SIDE, Board.TILE_SIDE);
             b.Dispose();

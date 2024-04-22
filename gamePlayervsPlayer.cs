@@ -1,4 +1,5 @@
 ﻿using ChessApp.AlphaBeta;
+using ChessApp.Interface;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -68,15 +69,24 @@ namespace ChessApp
                 }
 
                 playerGameState.Board = WhiteBoard;
-
                 Invalidate();
 
+                if (playerGameState.Board.NoPossibleMoves())
+                {
+                    if (playerGameState.Board.KingIsInCheck(true))
+                        FormUtils.ShowDefeatDialog(); //() => newToolStripMenuItem_Click(null, EventArgs.Empty));
+                    else if (playerGameState.Board.KingIsInCheck(false))
+                        FormUtils.ShowVictoryDialog();
+                    else
+                        Console.WriteLine(playerGameState.Board.ToString());
+                        FormUtils.ShowPlayerStalemateDialog(); //() => newToolStripMenuItem_Click(null, EventArgs.Empty));
+                }
+               
             }
 
             //Black Play
             else if (playerGameState.Board.WhiteTurn == false)
             {
-                
                 Board BlackBoard = playerGameState.Board.Click(new Position(e.X,e.Y), playerGameState.successiveBoards);
 
                 if (!ReferenceEquals(playerGameState.Board, BlackBoard))
@@ -85,6 +95,13 @@ namespace ChessApp
                 }
 
                 playerGameState.Board = BlackBoard;
+                if (playerGameState.Board.NoPossibleMoves())
+                {
+                    if (playerGameState.Board.KingIsInCheck(true))
+                        FormUtils.ShowDefeatDialog(); //() => newToolStripMenuItem_Click(null, EventArgs.Empty));
+                    else
+                        FormUtils.ShowPlayerStalemateDialog(); //() => newToolStripMenuItem_Click(null, EventArgs.Empty));
+                }
 
                 Invalidate();
             }

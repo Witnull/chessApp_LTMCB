@@ -106,3 +106,24 @@ E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.c
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.csproj.Up2Date
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.exe
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.pdb
+D:\Lap trinh mang\DoAn\bin\Debug\ChessApp.exe.config
+D:\Lap trinh mang\DoAn\bin\Debug\ChessApp.exe
+D:\Lap trinh mang\DoAn\bin\Debug\ChessApp.pdb
+D:\Lap trinh mang\DoAn\bin\Debug\FireSharp.dll
+D:\Lap trinh mang\DoAn\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Lap trinh mang\DoAn\bin\Debug\Newtonsoft.Json.dll
+D:\Lap trinh mang\DoAn\bin\Debug\RestSharp.dll
+D:\Lap trinh mang\DoAn\bin\Debug\Transitions.dll
+D:\Lap trinh mang\DoAn\bin\Debug\Newtonsoft.Json.xml
+D:\Lap trinh mang\DoAn\bin\Debug\RestSharp.xml
+D:\Lap trinh mang\DoAn\bin\Debug\Transitions.pdb
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.gamePlayervsPlayer.resources
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.gameScreen.resources
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.starterScreeen.resources
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.Properties.Resources.resources
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.csproj.GenerateResource.cache
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.csproj.Up2Date
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.exe
+D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.pdb

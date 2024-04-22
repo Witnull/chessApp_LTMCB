@@ -241,7 +241,7 @@ namespace ChessApp
 				}
 			}
 
-			//For debug purposes only, if no king found then there is no check.
+			// if no king found then there is no check.
 			if (king is null)
 				return null;
 
