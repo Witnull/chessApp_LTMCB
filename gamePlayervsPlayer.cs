@@ -71,14 +71,10 @@ namespace ChessApp
 
                 Invalidate();
 
-               // playerGameState.SetCheckPosition();
-               
-               // Refresh();
-
             }
 
             //Black Play
-            if (playerGameState.Board.WhiteTurn == false)
+            else if (playerGameState.Board.WhiteTurn == false)
             {
                 
                 Board BlackBoard = playerGameState.Board.Click(new Position(e.X,e.Y), playerGameState.successiveBoards);
@@ -91,10 +87,6 @@ namespace ChessApp
                 playerGameState.Board = BlackBoard;
 
                 Invalidate();
-                
-                //playerGameState.SetCheckPosition();
-
-                //Refresh();
             }
             playerGameState.SetCheckPosition();
 

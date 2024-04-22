@@ -19,6 +19,7 @@ namespace ChessApp
         public static int OFFSET_Y { get; set; } = 25;
         public Piece CurrentClickedPiece { get; set; }
 
+        public Piece PreviousClickPiece { get; set; }
         public ColoredPosition NewPos { get; set; }
 
         public int TurnNumber { get; set; } = 0;
@@ -179,6 +180,7 @@ namespace ChessApp
                 }
 
                 Board res = successiveStates.Find(ss => ss.NewPos.Equals(clickedPosition));
+                res.PreviousClickPiece = this.CurrentClickedPiece;
                 successiveStates.Clear();
                 return res;
             }
@@ -189,6 +191,16 @@ namespace ChessApp
                 CurrentClickedPiece.PossibleMoves(this)
                     .Where(board => !board.KingIsInCheck(true)).ToList()
                     .ForEach(board => { successiveStates.Add(board); });
+            }
+            else if (clickedPiece.White && !this.WhiteTurn)
+            {
+                Board res = successiveStates.Find(ss => ss.NewPos.Equals(clickedPosition));
+                if (res == null) return this;
+                res.PreviousClickPiece = this.CurrentClickedPiece;
+                successiveStates.Clear();
+                return res;
+
+
             }
 
             return this;
