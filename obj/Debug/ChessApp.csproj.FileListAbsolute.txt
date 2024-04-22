@@ -106,3 +106,27 @@ E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.c
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.csproj.Up2Date
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.exe
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\obj\Debug\ChessApp.pdb
+D:\git\Chess-Project\bin\Debug\ChessApp.exe.config
+D:\git\Chess-Project\bin\Debug\ChessApp.exe
+D:\git\Chess-Project\bin\Debug\ChessApp.pdb
+D:\git\Chess-Project\bin\Debug\FireSharp.dll
+D:\git\Chess-Project\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\git\Chess-Project\bin\Debug\Newtonsoft.Json.dll
+D:\git\Chess-Project\bin\Debug\RestSharp.dll
+D:\git\Chess-Project\bin\Debug\SaaUI.dll
+D:\git\Chess-Project\bin\Debug\Transitions.dll
+D:\git\Chess-Project\bin\Debug\Newtonsoft.Json.xml
+D:\git\Chess-Project\bin\Debug\RestSharp.xml
+D:\git\Chess-Project\bin\Debug\SaaUI.xml
+D:\git\Chess-Project\bin\Debug\Transitions.pdb
+D:\git\Chess-Project\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+D:\git\Chess-Project\obj\Debug\Chess_ClientChat_NET.ClientChat.resources
+D:\git\Chess-Project\obj\Debug\ChessApp.gamePlayervsPlayer.resources
+D:\git\Chess-Project\obj\Debug\ChessApp.gameScreen.resources
+D:\git\Chess-Project\obj\Debug\ChessApp.starterScreeen.resources
+D:\git\Chess-Project\obj\Debug\ChessApp.Properties.Resources.resources
+D:\git\Chess-Project\obj\Debug\ChessApp.csproj.GenerateResource.cache
+D:\git\Chess-Project\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+D:\git\Chess-Project\obj\Debug\ChessApp.csproj.Up2Date
+D:\git\Chess-Project\obj\Debug\ChessApp.exe
+D:\git\Chess-Project\obj\Debug\ChessApp.pdb

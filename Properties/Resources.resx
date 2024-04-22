@@ -163,4 +163,25 @@
   <data name="roundBtn1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\static\image\roundBtn1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="brain_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\brain_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="chatbox_image" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\chatbox_image.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="eye_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\eye_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="hamburger_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\hamburger 1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="log_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\log_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="pawn_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\pawn_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Icons\user_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

@@ -1,18 +1,40 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\",
+  "WorkspaceRootPath": "D:\\git\\Chess-Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|e:\\stuff or sth like that\\laptrinhmangcanban\\chessapp_ltmcb\\gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\git\\chess-project\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\git\\chess-project\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\git\\chess-project\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ChessApp||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\git\\chess-project\\clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\git\\chess-project\\gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|D:\\git\\Chess-Project\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|D:\\git\\Chess-Project\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\git\\chess-project\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,20 +44,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Position.cs",
-              "DocumentMoniker": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Position.cs",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\Position.cs",
               "RelativeDocumentMoniker": "Position.cs",
-              "ToolTip": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Position.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\Position.cs",
               "RelativeToolTip": "Position.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAswAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T15:13:20.52Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
               "$type": "Bookmark",
@@ -48,24 +75,88 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Board.cs",
-              "DocumentMoniker": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Board.cs",
-              "RelativeDocumentMoniker": "Board.cs",
-              "ToolTip": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\Board.cs",
-              "RelativeToolTip": "Board.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwFsAAAApAAAA",
+              "Title": "ClientChat.cs",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\ClientChat.cs",
+              "RelativeDocumentMoniker": "ClientChat.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\ClientChat.cs",
+              "RelativeToolTip": "ClientChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T15:53:04.866Z"
+              "WhenOpened": "2024-04-22T14:34:17.33Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:33:49.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChessApp",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\ChessApp.csproj",
+              "RelativeDocumentMoniker": "ChessApp.csproj",
+              "ToolTip": "D:\\git\\Chess-Project\\ChessApp.csproj",
+              "RelativeToolTip": "ChessApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-22T14:33:30.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ClientChat.cs [Design]",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\ClientChat.cs",
+              "RelativeDocumentMoniker": "ClientChat.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\ClientChat.cs [Design]",
+              "RelativeToolTip": "ClientChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:26:15.589Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientChat.Designer.cs",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\ClientChat.Designer.cs",
+              "RelativeDocumentMoniker": "ClientChat.Designer.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\ClientChat.Designer.cs",
+              "RelativeToolTip": "ClientChat.Designer.cs",
+              "ViewState": "AQIAAHMCAAAAAAAAAAAQwIQCAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T14:24:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwFsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T15:53:04.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "gamePlayervsPlayer.cs",
-              "DocumentMoniker": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\gamePlayervsPlayer.cs",
+              "DocumentMoniker": "D:\\git\\Chess-Project\\gamePlayervsPlayer.cs",
               "RelativeDocumentMoniker": "gamePlayervsPlayer.cs",
-              "ToolTip": "E:\\Stuff or sth like that\\LapTrinhMangCanBan\\chessApp_LTMCB\\gamePlayervsPlayer.cs",
+              "ToolTip": "D:\\git\\Chess-Project\\gamePlayervsPlayer.cs",
               "RelativeToolTip": "gamePlayervsPlayer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAdAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-19T08:23:04.4Z",
               "EditorCaption": ""

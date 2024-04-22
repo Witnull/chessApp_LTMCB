@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Chess_ClientChat_NET;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
@@ -17,6 +18,7 @@ namespace ChessApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new starterScreeen());
+            //Application.Run(new ClientChat());
         }
     }
 }
