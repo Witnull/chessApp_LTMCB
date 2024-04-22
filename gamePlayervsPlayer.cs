@@ -71,10 +71,6 @@ namespace ChessApp
 
                 Invalidate();
 
-               // playerGameState.SetCheckPosition();
-               
-               // Refresh();
-
             }
 
             //Black Play
@@ -91,10 +87,6 @@ namespace ChessApp
                 playerGameState.Board = BlackBoard;
 
                 Invalidate();
-                
-                //playerGameState.SetCheckPosition();
-
-                //Refresh();
             }
             playerGameState.SetCheckPosition();
 
