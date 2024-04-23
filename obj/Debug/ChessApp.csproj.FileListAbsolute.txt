@@ -85,6 +85,29 @@ C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSam
 C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.csproj.Up2Date
 C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.exe
 C:\Users\admin\Downloads\ChessAppSample2WithAI\ChessAppSample2WithAI\ChessAppSample2WithAI\obj\Debug\ChessApp.pdb
+<<<<<<< HEAD
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\ChessApp.exe.config
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\ChessApp.exe
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\ChessApp.pdb
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\FireSharp.dll
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\FireSharp.Serialization.JsonNet.dll
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\Newtonsoft.Json.dll
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\RestSharp.dll
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\Transitions.dll
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\Newtonsoft.Json.xml
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\RestSharp.xml
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\Transitions.pdb
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.csproj.AssemblyReference.cache
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.gamePlayervsPlayer.resources
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.gameScreen.resources
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.starterScreeen.resources
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.Properties.Resources.resources
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.csproj.GenerateResource.cache
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.csproj.Up2Date
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.exe
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\ChessApp.pdb
+=======
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\ChessApp.exe.config
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\ChessApp.exe
 E:\Stuff or sth like that\LapTrinhMangCanBan\chessApp_LTMCB\bin\Debug\ChessApp.pdb
@@ -127,3 +150,7 @@ D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.csproj.CoreCompileInputs.cache
 D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.csproj.Up2Date
 D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.exe
 D:\Lap trinh mang\DoAn\obj\Debug\ChessApp.pdb
+>>>>>>> 15ac94ca4b4414ccfeff261363a8c2e402e2601e
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\SaaUI.dll
+D:\Desktopfiles\projects\chessApp_LTMCB\bin\Debug\SaaUI.xml
+D:\Desktopfiles\projects\chessApp_LTMCB\obj\Debug\Chess_ClientChat_NET.ClientChat.resources

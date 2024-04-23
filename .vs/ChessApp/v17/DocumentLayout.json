@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Lap trinh mang\\DoAn\\",
+  "WorkspaceRootPath": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\lap trinh mang\\doan\\gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:gameplayervsplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\starterscreeen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:starterscreeen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\lap trinh mang\\doan\\gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:gamescreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|D:\\Lap trinh mang\\DoAn\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\starterscreeen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:starterscreeen.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\starterscreeen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:starterscreeen.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\starterscreeen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:starterscreeen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|D:\\Desktopfiles\\projects\\chessApp_LTMCB\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\lap trinh mang\\doan\\pieces\\continuouspathpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:pieces\\continuouspathpiece.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\lap trinh mang\\doan\\coloredposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:coloredposition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:clientchat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|D:\\Lap trinh mang\\DoAn\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|d:\\desktopfiles\\projects\\chessapp_ltmcb\\clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DC6D17C7-3BA3-40E2-9B43-1C09957970B2}|ChessApp.csproj|solutionrelative:clientchat.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,81 +58,142 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Position.cs",
-              "DocumentMoniker": "D:\\Lap trinh mang\\DoAn\\Position.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\Position.cs",
               "RelativeDocumentMoniker": "Position.cs",
-              "ToolTip": "D:\\Lap trinh mang\\DoAn\\Position.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\Position.cs",
               "RelativeToolTip": "Position.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAYwEgAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T15:13:20.52Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "gameScreen.cs",
-              "DocumentMoniker": "D:\\Lap trinh mang\\DoAn\\gameScreen.cs",
-              "RelativeDocumentMoniker": "gameScreen.cs",
-              "ToolTip": "D:\\Lap trinh mang\\DoAn\\gameScreen.cs",
-              "RelativeToolTip": "gameScreen.cs",
-              "ViewState": "AQIAAFMAAAAAAAAAAAAUwFwAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:15:33.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ColoredPosition.cs",
-              "DocumentMoniker": "D:\\Lap trinh mang\\DoAn\\ColoredPosition.cs",
-              "RelativeDocumentMoniker": "ColoredPosition.cs",
-              "ToolTip": "D:\\Lap trinh mang\\DoAn\\ColoredPosition.cs",
-              "RelativeToolTip": "ColoredPosition.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAAAwA8AAABBAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:07:15.388Z",
+              "WhenOpened": "2024-04-23T14:03:54.981Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ContinuousPathPiece.cs",
-              "DocumentMoniker": "D:\\Lap trinh mang\\DoAn\\Pieces\\ContinuousPathPiece.cs",
-              "RelativeDocumentMoniker": "Pieces\\ContinuousPathPiece.cs",
-              "ToolTip": "D:\\Lap trinh mang\\DoAn\\Pieces\\ContinuousPathPiece.cs",
-              "RelativeToolTip": "Pieces\\ContinuousPathPiece.cs",
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\User.cs",
+              "RelativeToolTip": "User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T14:07:00.414Z",
+              "WhenOpened": "2024-04-23T14:03:52.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Board.cs",
-              "DocumentMoniker": "D:\\Lap trinh mang\\DoAn\\Board.cs",
-              "RelativeDocumentMoniker": "Board.cs",
-              "ToolTip": "D:\\Lap trinh mang\\DoAn\\Board.cs",
-              "RelativeToolTip": "Board.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAiwIAAAAAiAAAA",
+              "DocumentIndex": 4,
+              "Title": "starterScreeen.resx",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.resx",
+              "RelativeDocumentMoniker": "starterScreeen.resx",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.resx",
+              "RelativeToolTip": "starterScreeen.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-23T14:03:51.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "starterScreeen.Designer.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.Designer.cs",
+              "RelativeDocumentMoniker": "starterScreeen.Designer.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.Designer.cs",
+              "RelativeToolTip": "starterScreeen.Designer.cs",
+              "ViewState": "AQIAAEYBAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T15:53:04.866Z",
+              "WhenOpened": "2024-04-23T14:01:18.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "starterScreeen.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.cs",
+              "RelativeDocumentMoniker": "starterScreeen.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.cs",
+              "RelativeToolTip": "starterScreeen.cs",
+              "ViewState": "AQIAAB8BAAAAAAAAAADwvzABAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T14:01:23.131Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "gamePlayervsPlayer.cs",
-              "DocumentMoniker": "D:\\Lap trinh mang\\DoAn\\gamePlayervsPlayer.cs",
-              "RelativeDocumentMoniker": "gamePlayervsPlayer.cs",
-              "ToolTip": "D:\\Lap trinh mang\\DoAn\\gamePlayervsPlayer.cs",
-              "RelativeToolTip": "gamePlayervsPlayer.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAkwEcAAAAdAAAA",
+              "Title": "starterScreeen.cs [Design]",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.cs",
+              "RelativeDocumentMoniker": "starterScreeen.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\starterScreeen.cs [Design]",
+              "RelativeToolTip": "starterScreeen.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T08:23:04.4Z",
+              "WhenOpened": "2024-04-23T14:01:19.351Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:31:18.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ClientChat.Designer.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\ClientChat.Designer.cs",
+              "RelativeDocumentMoniker": "ClientChat.Designer.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\ClientChat.Designer.cs",
+              "RelativeToolTip": "ClientChat.Designer.cs",
+              "ViewState": "AQIAAJECAAAAAAAAAADwv6QCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:20:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ClientChat.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\ClientChat.cs",
+              "RelativeDocumentMoniker": "ClientChat.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\ClientChat.cs",
+              "RelativeToolTip": "ClientChat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE4BAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:20:48.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientChat.cs [Design]",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\ClientChat.cs",
+              "RelativeDocumentMoniker": "ClientChat.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\ClientChat.cs [Design]",
+              "RelativeToolTip": "ClientChat.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:15:40.821Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Board.cs",
+              "DocumentMoniker": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\Board.cs",
+              "RelativeDocumentMoniker": "Board.cs",
+              "ToolTip": "D:\\Desktopfiles\\projects\\chessApp_LTMCB\\Board.cs",
+              "RelativeToolTip": "Board.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAAALYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T04:41:32.623Z",
               "EditorCaption": ""
             }
           ]

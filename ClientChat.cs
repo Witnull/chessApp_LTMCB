@@ -332,5 +332,6 @@ namespace Chess_ClientChat_NET
         {
 
         }
+
     }
 }

@@ -75,7 +75,7 @@ namespace ChessApp
             hideMode();
         }
 
-        private async void button2_Click(object sender, EventArgs e)
+        private async void SignInButton_Click(object sender, EventArgs e)
         {
             isButton1ClickActive = false;
 
@@ -134,7 +134,7 @@ namespace ChessApp
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void LoginButton_Click(object sender, EventArgs e)
         {
             isButton2ClickActive = false;
 
@@ -182,7 +182,7 @@ namespace ChessApp
 
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void BackToMainMenuButton_Click(object sender, EventArgs e)
         {
             isButton1ClickActive = false;
             isButton2ClickActive = false;
@@ -300,19 +300,19 @@ namespace ChessApp
             if (client == null) throw new Exception("Unable to connect to Firebase database");
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void GameModePVPButton_Click(object sender, EventArgs e)
         {
             selectedGameMode = 0;
             initGame(selectedGameMode);
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void GameModePVEButton_Click(object sender, EventArgs e)
         {
             selectedGameMode = 1;
             initGame(selectedGameMode);
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void GameModeRankButton_Click(object sender, EventArgs e)
         {
             selectedGameMode = 2;
             initGame(selectedGameMode);

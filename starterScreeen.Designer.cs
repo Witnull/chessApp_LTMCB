@@ -191,7 +191,7 @@
             this.button6.TabIndex = 7;
             this.button6.Text = "🏆 Rank🏆";
             this.button6.UseVisualStyleBackColor = false;
-            this.button6.Click += new System.EventHandler(this.button6_Click);
+            this.button6.Click += new System.EventHandler(this.GameModeRankButton_Click);
             // 
             // button4
             // 
@@ -208,7 +208,7 @@
             this.button4.TabIndex = 6;
             this.button4.Text = "⚔ PvP ⚔️";
             this.button4.UseVisualStyleBackColor = false;
-            this.button4.Click += new System.EventHandler(this.button4_Click);
+            this.button4.Click += new System.EventHandler(this.GameModePVPButton_Click);
             // 
             // button5
             // 
@@ -225,7 +225,7 @@
             this.button5.TabIndex = 6;
             this.button5.Text = "🤖 PvE 🤖 ";
             this.button5.UseVisualStyleBackColor = false;
-            this.button5.Click += new System.EventHandler(this.button5_Click);
+            this.button5.Click += new System.EventHandler(this.GameModePVEButton_Click);
             // 
             // button3
             // 
@@ -245,7 +245,7 @@
             this.button3.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
             this.button3.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
             this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button3_Click);
+            this.button3.Click += new System.EventHandler(this.BackToMainMenuButton_Click);
             // 
             // button2
             // 
@@ -262,7 +262,7 @@
             this.button2.TabIndex = 2;
             this.button2.Text = "Sign in";
             this.button2.UseVisualStyleBackColor = false;
-            this.button2.Click += new System.EventHandler(this.button2_Click);
+            this.button2.Click += new System.EventHandler(this.SignInButton_Click);
             // 
             // button1
             // 
@@ -279,7 +279,7 @@
             this.button1.TabIndex = 1;
             this.button1.Text = "Login";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.LoginButton_Click);
             // 
             // label1
             // 
