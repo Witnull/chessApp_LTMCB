@@ -1,3 +1,8 @@
+# Ignore all files and folders inside obj/
 obj/*
+
+# Ignore all files and folders inside bin/
 bin/*
+
+# Ignore all files and folders inside .vs/
 .vs/*
